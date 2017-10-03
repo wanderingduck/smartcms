@@ -1,0 +1,11 @@
+# basic options
+title: Smart Sprout Affordable Digital Marketing
+author: wanderingduck
+email: mike@smartsprout.co.uk
+description: Low cost digital marketing for all businesses
+twitter_username: smartsproutDM
+github_username: wanderingduck
+
+# Build settings
+markdown: kramdown
+theme: minima
